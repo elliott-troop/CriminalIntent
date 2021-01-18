@@ -1,4 +1,4 @@
-package com.troopgang.criminalintent.ui
+package com.troopgang.criminalintent.ui.fragments
 
 import android.os.Bundle
 import android.text.Editable

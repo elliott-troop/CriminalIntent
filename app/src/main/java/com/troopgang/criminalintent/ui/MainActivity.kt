@@ -1,8 +1,9 @@
-package com.troopgang.criminalintent
+package com.troopgang.criminalintent.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.troopgang.criminalintent.ui.CrimeFragment
+import com.troopgang.criminalintent.R
+import com.troopgang.criminalintent.ui.fragments.CrimeFragment
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
